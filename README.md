@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Laura. I'm a student at UTrecht University. I'm new to GitHub so I'm still exploring.
+I'm Laura. I'm a student at Utrecht University. I'm new to GitHub so I'm still exploring.
 <!--
 **laurakol/laurakol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
